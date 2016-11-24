@@ -14,6 +14,7 @@ RUN cd /data && \
     cd /data/kong-dashboard && \
     npm install && \
     npm run install && \
+    cd /data && \
     bower update --allow-root && \
     true
 
