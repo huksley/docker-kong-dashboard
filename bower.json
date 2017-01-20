@@ -1,0 +1,6 @@
+{
+    "name": "kong-dashboard",
+    "dependencies": {
+	"material-icons": "https://google-fonts.azurewebsites.net/googleFonts/openSans?family=Material+Icons"
+    }
+}

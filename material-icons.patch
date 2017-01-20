@@ -1,0 +1,12 @@
+diff -rwu kong-dashboard.old/src/index.html kong-dashboard/src/index.html
+--- kong-dashboard.old/src/index.html	2017-01-19 14:17:25.000000000 +0100
++++ kong-dashboard/src/index.html	2017-01-19 15:17:50.686991145 +0100
+@@ -3,7 +3,7 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Kong Dashboard</title>
+-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
++    <link href="lib/material-icons/materialIcons.css" rel="stylesheet">
+     <link rel="stylesheet" href="css/app.min.css" >
+ </head>
+ <body>
