@@ -6,4 +6,6 @@ https://github.com/PGBI/kong-dashboard/
 
 
 ## Running
-docker run -d -p 8080:8080 -n kong-dashboard huksley/kong-dashboard
+```bash
+docker run -d -p 8080:8080 --name kong-dashboard huksley/kong-dashboard
+```
